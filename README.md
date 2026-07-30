@@ -39,7 +39,7 @@ https://uofu.box.com/v/metab-workshop-2026
     - Where it came from/what it is
   - Questions to ask: what am I looking at? Are there the right number of samples? How many features (e.g. metabolites)? Has the data been processed in any way? What annotations are there? Experimental groups? Do sample names need a mapping table (e.g. sample_01, sample_02, sample_03) so we know what experimental group they belong to?
     - Samples are rows and metabolites are columns. Group/Sample has important "meta data" about the samples/experiment.
-    - There are thirty six samples across multiple conditions. Some QC samples too.
+    - There are 36 samples across multiple conditions. Some QC samples too.
   - 122 features in the last sheet, but note not all are metabolites.
     - Consistent with semi-targeted metabolomics dataset.
     - Fewer features than expected can indicate sample or sample prep issues.
