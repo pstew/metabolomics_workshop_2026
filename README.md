@@ -1,3 +1,7 @@
+## Paul's contact
+
+paul.stewart@hci.utah.edu
+
 ## Metabolomics Data Analysis Workshop July 2026
 
 ### Slido link:
