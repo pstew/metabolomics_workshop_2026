@@ -8,6 +8,11 @@
 
 <https://github.com/pstew/metabolomics_workshop_2026>
 
+#### Backup copy because GitHub is going slow:
+
+https://uofu.box.com/v/metab-workshop-2026
+
+
 ### R/RStudio download
 
 <https://cran.r-project.org>
