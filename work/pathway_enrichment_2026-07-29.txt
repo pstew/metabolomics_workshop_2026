@@ -1,0 +1,16 @@
+KEGG.id	KEGG.name	CompoundHits	CompoundsInPathway	p.value	padj
+hsa00240	Pyrimidine metabolism - Homo sapiens (human)	5	166	0.0048697566626487	0.0122384070483105
+hsa00760	Nicotinate and nicotinamide metabolism - Homo sapiens (human)	5	169	0.0048697566626487	0.0122384070483105
+hsa00230	Purine metabolism - Homo sapiens (human)	5	208	0.00489536281932418	0.0122384070483105
+hsa00270	Cysteine and methionine metabolism - Homo sapiens (human)	5	189	0.00489536281932418	0.0122384070483105
+hsa00440	Phosphonate and phosphinate metabolism - Homo sapiens (human)	4	105	0.00489536281932418	0.0122384070483105
+hsa02010	ABC transporters - Homo sapiens (human)	4	96	0.00489536281932418	0.0122384070483105
+hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)	4	133	0.0105555038867539	0.0226189369001869
+hsa01232	Nucleotide metabolism - Homo sapiens (human)	4	154	0.0144605687430199	0.0241009479050332
+hsa05231	Choline metabolism in cancer - Homo sapiens (human)	3	59	0.0144605687430199	0.0241009479050332
+hsa00565	Ether lipid metabolism - Homo sapiens (human)	3	86	0.0327367923653394	0.0393475082078341
+hsa04024	cAMP signaling pathway - Homo sapiens (human)	3	84	0.0327367923653394	0.0393475082078341
+hsa00260	Glycine, serine and threonine metabolism - Homo sapiens (human)	4	210	0.0341011737801229	0.0393475082078341
+hsa00514	Other types of O-glycan biosynthesis - Homo sapiens (human)	2	22	0.0341011737801229	0.0393475082078341
+hsa00600	Sphingolipid metabolism - Homo sapiens (human)	3	104	0.0416988939926245	0.0416988939926245
+hsa01230	Biosynthesis of amino acids - Homo sapiens (human)	4	231	0.0416988939926245	0.0416988939926245

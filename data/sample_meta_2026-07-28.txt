@@ -1,0 +1,43 @@
+abundance_column	Group	Type	rad_dose_cGy	rad_type	color
+X4010.Dish.0.cGy.sGCR	Dish 0 cGy sGCR	Dish	0	sGCR	firebrick
+X4015.Dish.0.cGy.sGCR	Dish 0 cGy sGCR	Dish	0	sGCR	firebrick
+X4026.Dish.0.cGy.sGCR	Dish 0 cGy sGCR	Dish	0	sGCR	firebrick
+X4104.Dish.0.cGy.sGCR	Dish 0 cGy sGCR	Dish	0	sGCR	firebrick
+X4106.Dish.0.cGy.sGCR	Dish 0 cGy sGCR	Dish	0	sGCR	firebrick
+X4181.Dish.0.cGy.sGCR	Dish 0 cGy sGCR	Dish	0	sGCR	firebrick
+X4010.Dish.50.cGy.sGCR	Dish 50 cGy sGCR	Dish	50	sGCR	coral
+X4015.Dish.50.cGy.sGCR	Dish 50 cGy sGCR	Dish	50	sGCR	coral
+X4026.Dish.50.cGy.sGCR	Dish 50 cGy sGCR	Dish	50	sGCR	coral
+X4104.Dish.50.cGy.sGCR	Dish 50 cGy sGCR	Dish	50	sGCR	coral
+X4106.Dish.50.cGy.sGCR	Dish 50 cGy sGCR	Dish	50	sGCR	coral
+X4181.Dish.50.cGy.sGCR	Dish 50 cGy sGCR	Dish	50	sGCR	coral
+X4010.Dish.100.cGy.Gamma	Dish 100 cGy Gamma	Dish	100	Gamma	khaki
+X4015.Dish.100.cGy.Gamma	Dish 100 cGy Gamma	Dish	100	Gamma	khaki
+X4026.Dish.100.cGy.Gamma	Dish 100 cGy Gamma	Dish	100	Gamma	khaki
+X4104.Dish.100.cGy.Gamma	Dish 100 cGy Gamma	Dish	100	Gamma	khaki
+X4106.Dish.100.cGy.Gamma	Dish 100 cGy Gamma	Dish	100	Gamma	khaki
+X4181.Dish.100.cGy.Gamma	Dish 100 cGy Gamma	Dish	100	Gamma	khaki
+X4010.Rotation.0.cGy.sGCR	Rotation 0 cGy sGCR	Rotation	0	sGCR	lightcyan
+X4015.Rotation.0.cGy.sGCR	Rotation 0 cGy sGCR	Rotation	0	sGCR	lightcyan
+X4026.Rotation.0.cGy.sGCR	Rotation 0 cGy sGCR	Rotation	0	sGCR	lightcyan
+X4104.Rotation.0.cGy.sGCR	Rotation 0 cGy sGCR	Rotation	0	sGCR	lightcyan
+X4106.Rotation.0.cGy.sGCR	Rotation 0 cGy sGCR	Rotation	0	sGCR	lightcyan
+X4181.Rotation.0.cGy.sGCR	Rotation 0 cGy sGCR	Rotation	0	sGCR	lightcyan
+X4010.Rotation.50.cGy.sGCR	Rotation 0 cGy sGCR	Rotation	50	sGCR	skyblue
+X4015.Rotation.50.cGy.sGCR	Rotation 50 cGy sGCR	Rotation	50	sGCR	skyblue
+X4026.Rotation.50.cGy.sGCR	Rotation 50 cGy sGCR	Rotation	50	sGCR	skyblue
+X4104.Rotation.50.cGy.sGCR	Rotation 50 cGy sGCR	Rotation	50	sGCR	skyblue
+X4106.Rotation.50.cGy.sGCR	Rotation 50 cGy sGCR	Rotation	50	sGCR	skyblue
+X4181.Rotation.50.cGy.sGCR	Rotation 50 cGy sGCR	Rotation	50	sGCR	skyblue
+X4010.Rotation.100.cGy.Gamma	Rotation 100 cGy Gamma	Rotation	100	Gamma	steelblue
+X4015.Rotation.100.cGy.Gamma	Rotation 100 cGy Gamma	Rotation	100	Gamma	steelblue
+X4026.Rotation.100.cGy.Gamma	Rotation 100 cGy Gamma	Rotation	100	Gamma	steelblue
+X4104.Rotation.100.cGy.Gamma	Rotation 100 cGy Gamma	Rotation	100	Gamma	steelblue
+X4106.Rotation.100.cGy.Gamma	Rotation 100 cGy Gamma	Rotation	100	Gamma	steelblue
+X4181.Rotation.100.cGy.Gamma	Rotation 100 cGy Gamma	Rotation	100	Gamma	steelblue
+QC.4	QC	QC			lightgrey
+QC.5	QC	QC			lightgrey
+QC.6	QC	QC			lightgrey
+QC.7	QC	QC			lightgrey
+QC.8	QC	QC			lightgrey
+QC.End	QC	QC			lightgrey
